@@ -1,0 +1,31 @@
+body {
+  font-family: Roboto, Helvetica, sans-serif;
+}
+
+label {
+  margin-right: 10px;
+}
+
+span {
+  color: white;
+  background-color: blue;  
+  font-size: 2rem;
+  text-align: center;
+  line-height: 2.5rem;
+  display: inline-block;
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 3px;
+}
+
+.not-part {
+  background-color:gray;
+}
+
+.correct {
+  background-color: forestgreen;  
+}
+
+.wrong-place {
+  background-color: goldenrod;  
+}
